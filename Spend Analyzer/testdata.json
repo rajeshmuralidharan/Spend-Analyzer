@@ -1,0 +1,1586 @@
+[
+    {
+        "Transaction Date": "08/18/2025",
+        "postedDate": "08/19/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/14/2025",
+        "postedDate": "08/17/2025",
+        "description": "LOT A EPS",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/16/2025",
+        "postedDate": "08/17/2025",
+        "description": "ABC PHCE",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-19.97",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/13/2025",
+        "postedDate": "08/14/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-33.13",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/13/2025",
+        "postedDate": "08/14/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/12/2025",
+        "postedDate": "08/13/2025",
+        "description": "NETFLIX.COM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-24.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/12/2025",
+        "postedDate": "08/12/2025",
+        "description": "Payment Thank You Bill Pa",
+        "category": "",
+        "Type": "Payment",
+        "amount": "1740.56",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/09/2025",
+        "postedDate": "08/10/2025",
+        "description": "MPX*APPLE GIFT CARD",
+        "category": "Entertainment",
+        "Type": "Sale",
+        "amount": "-50.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/09/2025",
+        "postedDate": "08/10/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-119.93",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/05/2025",
+        "postedDate": "08/06/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-264.04",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/05/2025",
+        "postedDate": "08/06/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/05/2025",
+        "postedDate": "08/06/2025",
+        "description": "SQ *SWEET ALI'S GLUTEN FR",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-76.31",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/03/2025",
+        "postedDate": "08/04/2025",
+        "description": "OREILLYMEDIAPLATFORM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-9.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/01/2025",
+        "postedDate": "08/03/2025",
+        "description": "GARDEN OF LIFE LLC  - EC",
+        "category": "Groceries",
+        "Type": "Sale",
+        "amount": "-40.68",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "08/01/2025",
+        "postedDate": "08/01/2025",
+        "description": "ANNUAL MEMBERSHIP FEE",
+        "category": "Fees & Adjustments",
+        "Type": "Fee",
+        "amount": "-95.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/30/2025",
+        "postedDate": "08/01/2025",
+        "description": "SHELL OIL 10003989000",
+        "category": "Gas",
+        "Type": "Sale",
+        "amount": "-20.25",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/28/2025",
+        "postedDate": "07/29/2025",
+        "description": "SHORTFIELDS",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-24.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/25/2025",
+        "postedDate": "07/28/2025",
+        "description": "Four Seasons Heating &amp; Ai",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-85.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/26/2025",
+        "postedDate": "07/28/2025",
+        "description": "TIPSY TACO TRAVELERS R",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-34.95",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/26/2025",
+        "postedDate": "07/27/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-79.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/21/2025",
+        "postedDate": "07/23/2025",
+        "description": "TIPSY TACO TRAVELERS R",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-42.26",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/22/2025",
+        "postedDate": "07/23/2025",
+        "description": "WM SUPERCENTER #5487",
+        "category": "Groceries",
+        "Type": "Sale",
+        "amount": "-7.90",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/19/2025",
+        "postedDate": "07/21/2025",
+        "description": "UNITED      0164314885327",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-60.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/19/2025",
+        "postedDate": "07/20/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-170.84",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/18/2025",
+        "postedDate": "07/18/2025",
+        "description": "Payment Thank You Bill Pa",
+        "category": "",
+        "Type": "Payment",
+        "amount": "1743.63",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/17/2025",
+        "postedDate": "07/18/2025",
+        "description": "CONSUMER BANKERS ASSOCIAT",
+        "category": "Professional Services",
+        "Type": "Sale",
+        "amount": "-25.75",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/16/2025",
+        "postedDate": "07/16/2025",
+        "description": "ABC PHCE",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-19.97",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/14/2025",
+        "postedDate": "07/15/2025",
+        "description": "BRIGHTWOK",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-56.03",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/14/2025",
+        "postedDate": "07/15/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/12/2025",
+        "postedDate": "07/13/2025",
+        "description": "NETFLIX.COM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-24.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/12/2025",
+        "postedDate": "07/13/2025",
+        "description": "WWP*SPRING-GREEN",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-151.10",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/11/2025",
+        "postedDate": "07/13/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-151.87",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/09/2025",
+        "postedDate": "07/11/2025",
+        "description": "UNITED      0162312612355",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-122.91",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/07/2025",
+        "postedDate": "07/07/2025",
+        "description": "MANNING 203-626-1510",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-23.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/06/2025",
+        "postedDate": "07/07/2025",
+        "description": "P.F.CHANG'S 7300 OLO",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-88.75",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/06/2025",
+        "postedDate": "07/07/2025",
+        "description": "COSTCO WHSE#1443",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-408.11",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/06/2025",
+        "postedDate": "07/07/2025",
+        "description": "COSTCO WHSE#1443",
+        "category": "Shopping",
+        "Type": "Return",
+        "amount": "274.45",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "07/03/2025",
+        "postedDate": "07/04/2025",
+        "description": "OREILLYMEDIAPLATFORM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-9.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/30/2025",
+        "postedDate": "07/01/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/28/2025",
+        "postedDate": "06/29/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-38.01",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/27/2025",
+        "postedDate": "06/29/2025",
+        "description": "UNITED      0162499402804",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-600.96",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/28/2025",
+        "postedDate": "06/29/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-15.57",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/26/2025",
+        "postedDate": "06/27/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-141.36",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/20/2025",
+        "postedDate": "06/22/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-85.86",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/20/2025",
+        "postedDate": "06/22/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Return",
+        "amount": "5.60",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/18/2025",
+        "postedDate": "06/19/2025",
+        "description": "TST* ROTI  - ADAMS",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-19.56",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/18/2025",
+        "postedDate": "06/19/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/17/2025",
+        "postedDate": "06/18/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/16/2025",
+        "postedDate": "06/17/2025",
+        "description": "WATER WORKS  INC",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-206.60",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/16/2025",
+        "postedDate": "06/17/2025",
+        "description": "COSTCO WHSE #1088",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-157.49",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/16/2025",
+        "postedDate": "06/16/2025",
+        "description": "ABC PHCE",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-19.97",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/12/2025",
+        "postedDate": "06/13/2025",
+        "description": "NETFLIX.COM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-24.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/12/2025",
+        "postedDate": "06/12/2025",
+        "description": "Payment Thank You Bill Pa",
+        "category": "",
+        "Type": "Payment",
+        "amount": "762.83",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/10/2025",
+        "postedDate": "06/11/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-172.27",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/08/2025",
+        "postedDate": "06/10/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-50.02",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/04/2025",
+        "postedDate": "06/06/2025",
+        "description": "UA INFLIGHT/INCLUB CREDIT",
+        "category": "Fees & Adjustments",
+        "Type": "Adjustment",
+        "amount": "2.50",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/04/2025",
+        "postedDate": "06/06/2025",
+        "description": "UA INFLT    0164302419950",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-10.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/05/2025",
+        "postedDate": "06/06/2025",
+        "description": "UNITED      0164302105944",
+        "category": "Travel",
+        "Type": "Return",
+        "amount": "75.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/03/2025",
+        "postedDate": "06/05/2025",
+        "description": "UNITED      0164302105944",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-75.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/02/2025",
+        "postedDate": "06/04/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-13.28",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/03/2025",
+        "postedDate": "06/04/2025",
+        "description": "OREILLYMEDIAPLATFORM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-9.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/02/2025",
+        "postedDate": "06/04/2025",
+        "description": "UA INFLIGHT/INCLUB CREDIT",
+        "category": "Fees & Adjustments",
+        "Type": "Adjustment",
+        "amount": "2.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "06/02/2025",
+        "postedDate": "06/04/2025",
+        "description": "UA INFLT    0164301694924",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-8.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/30/2025",
+        "postedDate": "06/01/2025",
+        "description": "UNITED      0164300985303",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-7.52",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/28/2025",
+        "postedDate": "05/29/2025",
+        "description": "SQ *GREEN + THE GRAIN ? U",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-18.24",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/27/2025",
+        "postedDate": "05/27/2025",
+        "description": "MANNING 203-626-1510",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-23.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/24/2025",
+        "postedDate": "05/26/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-55.46",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/23/2025",
+        "postedDate": "05/25/2025",
+        "description": "UNITED      0164499136412",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-64.49",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/23/2025",
+        "postedDate": "05/25/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-114.32",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/22/2025",
+        "postedDate": "05/23/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/21/2025",
+        "postedDate": "05/22/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/16/2025",
+        "postedDate": "05/18/2025",
+        "description": "UNITED      0164497214753",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-42.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/16/2025",
+        "postedDate": "05/18/2025",
+        "description": "UNITED      0164497214747",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-90.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/16/2025",
+        "postedDate": "05/18/2025",
+        "description": "COSTCO WHSE #1088",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-27.53",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/14/2025",
+        "postedDate": "05/16/2025",
+        "description": "UNITED      0164496590497",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-135.44",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/16/2025",
+        "postedDate": "05/16/2025",
+        "description": "ABC PHCE",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-19.97",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/14/2025",
+        "postedDate": "05/16/2025",
+        "description": "UNITED      0164495933187",
+        "category": "Travel",
+        "Type": "Return",
+        "amount": "320.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/13/2025",
+        "postedDate": "05/14/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-26.24",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/12/2025",
+        "postedDate": "05/14/2025",
+        "description": "UNITED      0164495933187",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-177.04",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/13/2025",
+        "postedDate": "05/13/2025",
+        "description": "Payment Thank You Bill Pa",
+        "category": "",
+        "Type": "Payment",
+        "amount": "2134.19",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/12/2025",
+        "postedDate": "05/13/2025",
+        "description": "NETFLIX.COM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-24.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/10/2025",
+        "postedDate": "05/12/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-21.12",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/10/2025",
+        "postedDate": "05/11/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-64.35",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/10/2025",
+        "postedDate": "05/11/2025",
+        "description": "WWP*SPRING-GREEN",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-75.55",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/08/2025",
+        "postedDate": "05/09/2025",
+        "description": "COSTCO WHSE #1088",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-130.85",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/08/2025",
+        "postedDate": "05/09/2025",
+        "description": "COSTCO WHSE #1088",
+        "category": "Shopping",
+        "Type": "Return",
+        "amount": "7.11",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/05/2025",
+        "postedDate": "05/06/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-23.65",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/04/2025",
+        "postedDate": "05/06/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-28.73",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/04/2025",
+        "postedDate": "05/06/2025",
+        "description": "THE HOME DEPOT #1918",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-17.78",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/01/2025",
+        "postedDate": "05/04/2025",
+        "description": "UNITED      0164493215905",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-142.96",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "05/03/2025",
+        "postedDate": "05/04/2025",
+        "description": "OREILLYMEDIAPLATFORM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-9.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/30/2025",
+        "postedDate": "05/01/2025",
+        "description": "THE GROWING PLACE  NURSER",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-65.39",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/30/2025",
+        "postedDate": "05/01/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-80.07",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/29/2025",
+        "postedDate": "04/30/2025",
+        "description": "WWP*SPRING-GREEN",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-75.55",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/26/2025",
+        "postedDate": "04/28/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-28.73",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/28/2025",
+        "postedDate": "04/28/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-754.24",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/24/2025",
+        "postedDate": "04/27/2025",
+        "description": "UNITED      0164491113604",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-132.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/24/2025",
+        "postedDate": "04/25/2025",
+        "description": "TST* ROTI  - ADAMS",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-17.32",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/23/2025",
+        "postedDate": "04/24/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-110.61",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/23/2025",
+        "postedDate": "04/24/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/20/2025",
+        "postedDate": "04/22/2025",
+        "description": "BIBIBOP OO 85",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-33.84",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/17/2025",
+        "postedDate": "04/17/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-78.62",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/16/2025",
+        "postedDate": "04/16/2025",
+        "description": "ABC PHCE",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-19.97",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/14/2025",
+        "postedDate": "04/15/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-135.17",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/14/2025",
+        "postedDate": "04/14/2025",
+        "description": "Payment Thank You Bill Pa",
+        "category": "",
+        "Type": "Payment",
+        "amount": "1054.96",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/14/2025",
+        "postedDate": "04/14/2025",
+        "description": "MANNING 203-626-1510",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-45.59",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/11/2025",
+        "postedDate": "04/13/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-43.09",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/12/2025",
+        "postedDate": "04/13/2025",
+        "description": "NETFLIX.COM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-24.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/09/2025",
+        "postedDate": "04/11/2025",
+        "description": "TST*THIRSTY LION GASTROP",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-137.77",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/07/2025",
+        "postedDate": "04/09/2025",
+        "description": "UA INFLIGHT/INCLUB CREDIT",
+        "category": "Fees & Adjustments",
+        "Type": "Adjustment",
+        "amount": "2.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/07/2025",
+        "postedDate": "04/09/2025",
+        "description": "UA INFLT    0164486675185",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-8.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/06/2025",
+        "postedDate": "04/08/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-35.57",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/03/2025",
+        "postedDate": "04/04/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-277.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/01/2025",
+        "postedDate": "04/04/2025",
+        "description": "SUPPLY CENTER USA",
+        "category": "Groceries",
+        "Type": "Return",
+        "amount": "45.22",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/03/2025",
+        "postedDate": "04/04/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Return",
+        "amount": "43.08",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/03/2025",
+        "postedDate": "04/04/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-26.82",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/03/2025",
+        "postedDate": "04/04/2025",
+        "description": "OREILLYMEDIAPLATFORM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-9.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/31/2025",
+        "postedDate": "04/02/2025",
+        "description": "JEWEL OSCO 1190",
+        "category": "Groceries",
+        "Type": "Sale",
+        "amount": "-29.17",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/30/2025",
+        "postedDate": "04/01/2025",
+        "description": "UNITED      0164484614858",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-33.01",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "04/01/2025",
+        "postedDate": "04/01/2025",
+        "description": "Hair Cuttery 3188",
+        "category": "Personal",
+        "Type": "Sale",
+        "amount": "-39.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/27/2025",
+        "postedDate": "03/30/2025",
+        "description": "UNITED      0164483922062",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-100.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/28/2025",
+        "postedDate": "03/30/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-178.58",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/27/2025",
+        "postedDate": "03/30/2025",
+        "description": "UNITED      0164483921990",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-66.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/28/2025",
+        "postedDate": "03/30/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Return",
+        "amount": "53.86",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/26/2025",
+        "postedDate": "03/28/2025",
+        "description": "TST*THALIWALA INDIAN KIT",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-95.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/21/2025",
+        "postedDate": "03/23/2025",
+        "description": "UNITED      0164482333942",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-39.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/20/2025",
+        "postedDate": "03/23/2025",
+        "description": "MARTA TVM     00000018",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.50",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/18/2025",
+        "postedDate": "03/20/2025",
+        "description": "WESTIN ATLANTA PERIMETER",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-35.50",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/16/2025",
+        "postedDate": "03/17/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-142.21",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/16/2025",
+        "postedDate": "03/17/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Return",
+        "amount": "26.93",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/16/2025",
+        "postedDate": "03/17/2025",
+        "description": "ABC PHCE",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-19.97",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/15/2025",
+        "postedDate": "03/17/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-60.36",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/12/2025",
+        "postedDate": "03/13/2025",
+        "description": "Netflix.com",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-24.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/12/2025",
+        "postedDate": "03/12/2025",
+        "description": "Payment Thank You Bill Pa",
+        "category": "",
+        "Type": "Payment",
+        "amount": "2123.36",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/08/2025",
+        "postedDate": "03/09/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-221.05",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/08/2025",
+        "postedDate": "03/09/2025",
+        "description": "JOANN STORES #2024",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-90.14",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/03/2025",
+        "postedDate": "03/04/2025",
+        "description": "OREILLYMEDIAPLATFORM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-9.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/01/2025",
+        "postedDate": "03/02/2025",
+        "description": "MYBESTBUY TOTAL YEARLY",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-179.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "03/01/2025",
+        "postedDate": "03/02/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-241.14",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/27/2025",
+        "postedDate": "02/27/2025",
+        "description": "Payment Thank You Bill Pa",
+        "category": "",
+        "Type": "Payment",
+        "amount": "80.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/26/2025",
+        "postedDate": "02/27/2025",
+        "description": "TST* INCHIN'S BAMBOO GARD",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-101.60",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/24/2025",
+        "postedDate": "02/26/2025",
+        "description": "UNITED      0162463128126",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-551.96",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/24/2025",
+        "postedDate": "02/25/2025",
+        "description": "WWP*SPRING-GREEN",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-77.83",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/23/2025",
+        "postedDate": "02/25/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-22.75",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/23/2025",
+        "postedDate": "02/24/2025",
+        "description": "COSTCO WHSE#1443",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-182.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/16/2025",
+        "postedDate": "02/17/2025",
+        "description": "ABC PHCE",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-19.97",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/15/2025",
+        "postedDate": "02/17/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-53.29",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/16/2025",
+        "postedDate": "02/17/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-255.53",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/15/2025",
+        "postedDate": "02/16/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-89.42",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/15/2025",
+        "postedDate": "02/16/2025",
+        "description": "MANNING 203-626-1510",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-23.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/13/2025",
+        "postedDate": "02/14/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/13/2025",
+        "postedDate": "02/13/2025",
+        "description": "Payment Thank You Bill Pa",
+        "category": "",
+        "Type": "Payment",
+        "amount": "1151.86",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/12/2025",
+        "postedDate": "02/13/2025",
+        "description": "Netflix.com",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-22.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/09/2025",
+        "postedDate": "02/11/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-55.92",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/03/2025",
+        "postedDate": "02/04/2025",
+        "description": "OREILLYMEDIAPLATFORM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-9.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/01/2025",
+        "postedDate": "02/02/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-130.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "02/01/2025",
+        "postedDate": "02/02/2025",
+        "description": "COSTCO WHSE#1443",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-357.54",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/25/2025",
+        "postedDate": "01/28/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-54.92",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/23/2025",
+        "postedDate": "01/24/2025",
+        "description": "STARBUCKS 800-782-7282",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-25.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/21/2025",
+        "postedDate": "01/23/2025",
+        "description": "UNITED      0164463557960",
+        "category": "Travel",
+        "Type": "Return",
+        "amount": "140.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/21/2025",
+        "postedDate": "01/23/2025",
+        "description": "UNITED      0164466667969",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-140.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/19/2025",
+        "postedDate": "01/21/2025",
+        "description": "UNITED      0164466196704",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-190.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/15/2025",
+        "postedDate": "01/17/2025",
+        "description": "CITY OF NAPERVILLE",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-3.40",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/15/2025",
+        "postedDate": "01/16/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-72.44",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/16/2025",
+        "postedDate": "01/16/2025",
+        "description": "ABC PHCE",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-16.97",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/15/2025",
+        "postedDate": "01/16/2025",
+        "description": "BRIGHTWOK",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-58.55",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/14/2025",
+        "postedDate": "01/14/2025",
+        "description": "Payment Thank You Bill Pa",
+        "category": "",
+        "Type": "Payment",
+        "amount": "946.27",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/11/2025",
+        "postedDate": "01/13/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-70.06",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/12/2025",
+        "postedDate": "01/12/2025",
+        "description": "NETFLIX.COM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-22.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/09/2025",
+        "postedDate": "01/12/2025",
+        "description": "UNITED      0164463557960",
+        "category": "Travel",
+        "Type": "Sale",
+        "amount": "-140.00",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/09/2025",
+        "postedDate": "01/10/2025",
+        "description": "COSTCO WHSE #0342",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-244.64",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/09/2025",
+        "postedDate": "01/10/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-26.93",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/07/2025",
+        "postedDate": "01/08/2025",
+        "description": "WWW COSTCO COM",
+        "category": "Shopping",
+        "Type": "Sale",
+        "amount": "-81.38",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/04/2025",
+        "postedDate": "01/06/2025",
+        "description": "BIBIBOP OO 71",
+        "category": "Food & Drink",
+        "Type": "Sale",
+        "amount": "-28.19",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "01/03/2025",
+        "postedDate": "01/05/2025",
+        "description": "OREILLYMEDIAPLATFORM",
+        "category": "Bills & Utilities",
+        "Type": "Sale",
+        "amount": "-9.99",
+        "Memo": ""
+    },
+    {
+        "Transaction Date": "12/30/2024",
+        "postedDate": "01/01/2025",
+        "description": "THE HOME DEPOT #1918",
+        "category": "Home",
+        "Type": "Sale",
+        "amount": "-7.87",
+        "Memo": ""
+    }
+]
